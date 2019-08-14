@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/simon/AndroidStudioProjects/HelloSharedPrefs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/simon/.gradle/caches/transforms-2/files-2.1/9e657eda4e5a3e2ac4232c7ad28957f5/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
