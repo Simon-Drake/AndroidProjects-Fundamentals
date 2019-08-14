@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/9e657eda4e5a3e2ac4232c7ad28957f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a9de2ee07ba2c3c3e74ef86d232561af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/107897d50e4b76d84a89ebfb5e760673/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/35ca557d7d7f8713973a04ea93e7b042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a2cf08c5a131b8d48eb7bf98f6486aec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/fd9c4274eb287f67bd7afeee3c8a8c71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a1d95a33602fd292d005e2b31c64737d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/246eea10aec09b961942d006ad515f4f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/c4061495568bdea546472cec77f1ece3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/657bd4942fec216e74038ccb61e396a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/9bee85f25f11992fdc072a936151078f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/9e657eda4e5a3e2ac4232c7ad28957f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/9e657eda4e5a3e2ac4232c7ad28957f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a9de2ee07ba2c3c3e74ef86d232561af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a9de2ee07ba2c3c3e74ef86d232561af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/107897d50e4b76d84a89ebfb5e760673/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/107897d50e4b76d84a89ebfb5e760673/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/35ca557d7d7f8713973a04ea93e7b042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/35ca557d7d7f8713973a04ea93e7b042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a2cf08c5a131b8d48eb7bf98f6486aec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a2cf08c5a131b8d48eb7bf98f6486aec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/fd9c4274eb287f67bd7afeee3c8a8c71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/fd9c4274eb287f67bd7afeee3c8a8c71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a1d95a33602fd292d005e2b31c64737d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/simon/.gradle/caches/transforms-2/files-2.1/a1d95a33602fd292d005e2b31c64737d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/246eea10aec09b961942d006ad515f4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/246eea10aec09b961942d006ad515f4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/c4061495568bdea546472cec77f1ece3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/c4061495568bdea546472cec77f1ece3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/657bd4942fec216e74038ccb61e396a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/657bd4942fec216e74038ccb61e396a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/9bee85f25f11992fdc072a936151078f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/simon/.gradle/caches/transforms-2/files-2.1/9bee85f25f11992fdc072a936151078f/AndroidManifest.xml:20:5-44
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /home/simon/AndroidStudioProjects/SimpleCalc/app/src/main/AndroidManifest.xml
